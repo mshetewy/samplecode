@@ -1,1 +1,1 @@
-# sanplecode
+# samplecode
